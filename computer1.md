@@ -3,5 +3,8 @@ graph TD;
     ComputerArchitecture-->hardware;
     ComputerArchitecture-->software;
     
-    software-->D;
+    software-->language;
+    software-->os;
+    software-->Datebase;
+    
 ```
