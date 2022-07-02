@@ -6,5 +6,18 @@ graph TD;
     software-->language;
     software-->os;
     software-->Datebase;
-    
-```
+    language-->jave
+    language-->jave
+    language-->jave
+    language-->jave
+    language-->jave
+    language-->jave
+
+    language-->jave
+    language-->jave
+    language-->jave
+    language-->jave
+    language-->jave
+    language-->jave
+``` 
+
