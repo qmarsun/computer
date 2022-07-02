@@ -1,7 +1,7 @@
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
+    ComputerArchitecture-->B;
+    ComputerArchitecture-->C;
     B-->D;
     C-->D;
 ```
