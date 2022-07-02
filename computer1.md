@@ -2,6 +2,8 @@
 graph TD;
     ComputerArchitecture-->hardware;
     ComputerArchitecture-->software;
+    hardware-->intel
+    hardware-->amd
     
     software-->language;
     software-->os;
@@ -26,6 +28,8 @@ graph TD;
     os-->mac
     os-->android
     os-->ios
+    
+    
     
     
 
