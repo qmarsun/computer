@@ -6,6 +6,9 @@ graph TD;
     software-->language;
     software-->os;
     software-->Datebase;
+    Datebase-->SQL
+    Datebase-->NOSQL
+    
     language-->jave
     language-->javesricpte
     language-->HTML
@@ -23,6 +26,8 @@ graph TD;
     os-->mac
     os-->android
     os-->ios
+    
+    Datebase-->M
 
     
 ``` 
