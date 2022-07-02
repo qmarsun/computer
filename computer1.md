@@ -7,17 +7,15 @@ graph TD;
     software-->os;
     software-->Datebase;
     language-->jave
-    language-->jave
-    language-->jave
-    language-->jave
-    language-->jave
-    language-->jave
+    language-->javesricpte
+    language-->HTML
+    language-->CSS
+    language-->Python
+    language-->Rupy
 
-    language-->jave
-    language-->jave
-    language-->jave
-    language-->jave
-    language-->jave
-    language-->jave
+    language-->c
+    language-->c++
+    language-->go
+   
 ``` 
 
