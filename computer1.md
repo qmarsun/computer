@@ -17,5 +17,13 @@ graph TD;
     language-->c++
     language-->go
    
+    os-->Linux
+    os-->windows
+
+    os-->mac
+    os-->android
+    os-->ios
+
+    
 ``` 
 
