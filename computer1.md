@@ -1,5 +1,5 @@
 ```mermaid
-graph TD;
+graph LR;
     ComputerArchitecture-->hardware;
     ComputerArchitecture-->software;
     hardware-->intel
@@ -11,8 +11,8 @@ graph TD;
     Datebase-->SQL
     Datebase-->NOSQL
     
-    language-->jave
-    language-->javesricpte
+    language-->java
+    language-->javascript
     language-->HTML
     language-->CSS
     language-->Python
@@ -28,11 +28,6 @@ graph TD;
     os-->mac
     os-->android
     os-->ios
-    
-    
-    
-    
 
-    
 ``` 
 
