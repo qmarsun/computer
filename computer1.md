@@ -1,5 +1,5 @@
 ```mermaid
-graph LR;
+graph TD;
     ComputerArchitecture-->hardware;
     ComputerArchitecture-->software;
     hardware-->intel
