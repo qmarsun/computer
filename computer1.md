@@ -4,7 +4,7 @@ graph LR;
     ComputerArchitecture-->software;
     hardware-->intel
     hardware-->amd
-    
+
     software-->language;
     software-->os;
     software-->Datebase;
